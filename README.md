@@ -6,3 +6,8 @@ QuizApp Flutter. It is the first app in the course : Flutter & Dart - The Comple
 Run 
 
 flutter run -d chrome 
+
+Demo
+
+![Demo](./QuizApp.gif)
+

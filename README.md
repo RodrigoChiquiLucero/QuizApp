@@ -9,5 +9,5 @@ flutter run -d chrome
 
 Demo
 
-![Demo](./QuizApp.gif)
+![Demo](./DemoPersonalAppExpenses-Android.mp4)
 
